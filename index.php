@@ -7,7 +7,7 @@
         
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="formulario/main.css" />
+    
     </head>
 
     <body>
